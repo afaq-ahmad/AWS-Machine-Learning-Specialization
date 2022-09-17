@@ -33,3 +33,8 @@ Linters analyze code to detect various categories of lint. Those categories can 
 |Black	|Formatter	|Formats Python code without compromise|
 |Isort	|Formatter	|Formats imports by sorting alphabetically and separating into sections|
 
+### GitHub Actions
+
+- SaaS-based build server
+- Allows you to do Continous Integration.
+- YAML-based high level and simple configuration file.
